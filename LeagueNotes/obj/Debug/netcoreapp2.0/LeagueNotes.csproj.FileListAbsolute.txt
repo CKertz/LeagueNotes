@@ -1,0 +1,11 @@
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\obj\Debug\netcoreapp2.0\LeagueNotes.csproj.CoreCompileInputs.cache
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\obj\Debug\netcoreapp2.0\LeagueNotes.AssemblyInfoInputs.cache
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\obj\Debug\netcoreapp2.0\LeagueNotes.AssemblyInfo.cs
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\bin\Debug\netcoreapp2.0\LeagueNotes.deps.json
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\bin\Debug\netcoreapp2.0\LeagueNotes.runtimeconfig.json
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\bin\Debug\netcoreapp2.0\LeagueNotes.runtimeconfig.dev.json
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\bin\Debug\netcoreapp2.0\LeagueNotes.dll
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\obj\Debug\netcoreapp2.0\LeagueNotes.csprojAssemblyReference.cache
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\bin\Debug\netcoreapp2.0\LeagueNotes.pdb
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\obj\Debug\netcoreapp2.0\LeagueNotes.dll
+D:\CodeProjects\DevOps\LeagueNotes\LeagueNotes\LeagueNotes\obj\Debug\netcoreapp2.0\LeagueNotes.pdb
